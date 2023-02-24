@@ -1,0 +1,12 @@
+beautifulsoup4==4.11.2
+bs4==0.0.1
+certifi==2022.12.7
+charset-normalizer==3.0.1
+Markdown==3.4.1
+PyQt5==5.15.9
+PyQt5-Qt5==5.15.2
+PyQt5-sip==12.11.1
+shellescape==3.8.1
+soupsieve==2.4
+urllib3==1.26.14
+webcolors==1.12
